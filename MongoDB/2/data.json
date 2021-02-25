@@ -1,0 +1,37 @@
+[
+    {
+        "firstName": "Erfan",
+        "lastName": "Ghazimorai",
+        "socialNumber": "0250405060",
+        "gender": "male",
+        "dateOfBirth": "79/01/03"
+    },
+    {
+        "firstName": "iman",
+        "lastName": "akbari",
+        "socialNumber": "0250406080",
+        "gender": "male",
+        "dateOfBirth": "67/04/18"
+    },
+    {
+        "firstName": "mohadese",
+        "lastName": "moradi",
+        "socialNumber": "0250445060",
+        "gender": "female",
+        "dateOfBirth": "68/07/23"
+    },
+    {
+        "firstName": "helia",
+        "lastName": "maleki",
+        "socialNumber": "0250405360",
+        "gender": "female",
+        "dateOfBirth": "79/11/03"
+    },
+    {
+        "firstName": "behnam",
+        "lastName": "mohammadi",
+        "socialNumber": "0250404570",
+        "gender": "male",
+        "dateOfBirth": "84/05/13"
+    }
+]
